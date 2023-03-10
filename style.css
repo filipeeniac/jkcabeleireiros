@@ -78,7 +78,7 @@ h1 {
   /* Tela em celulares: */
 
 
-  @media (max-width: 780px) {
+  @media (max-width: 760px) {
 
     .agendamento {
         color: white;
